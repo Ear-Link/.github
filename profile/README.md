@@ -115,16 +115,16 @@ Please see the `LICENSE` file for full details.
 - **Maintainers:**
   - **Product Owner**: Stanislav Kosarev
     - github: [@miumiumiux](https://github.com/miumiumiux)
-    - email: ??
-  - **DevOps**: Dvorkin Boris
+    - email: stan@earlink.org
+  - **DevOps**: Boris Dvorkin
     - github: [@worthant](https://github.com/worthant)
-    - email: [boris0indeed@gmail.com](mailto:boris0indeed@gmail.com)
-  - **Embedded Engineer**: зЕлИбОбА мОдЕлКиН (no idea)
+    - email: [worthant@earlink.org](mailto:worthant@earlink.org)
+  - **Embedded Engineer**: Igor Modelkin
     - github:
-    - email:
+    - email: igor@earlink.org
   - **?? Engineer 🕶️**: Andrey Setyaev
     - github: [@obormotov](https://github.com/obormotov)
-    - email:
+    - email: obor@earlink.org
 
 ---
 
